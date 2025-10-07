@@ -1,0 +1,35 @@
+{
+  "name": "com.eternaltornado.turnbasedframework",
+  "version": "1.0.0",
+  "displayName": "Turn-Based Framework",
+  "description": "A reusable, modular turn-based combat system for Unity with DOTS compatibility. Includes Turn Queue Manager, State Machine, and Action Queue System.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/eternalTornado/TurnBasedFramework/blob/main/README.md",
+  "changelogUrl": "https://github.com/eternalTornado/TurnBasedFramework/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/eternalTornado/TurnBasedFramework/blob/main/LICENSE.md",
+  "dependencies": {},
+  "keywords": [
+    "turn-based",
+    "combat",
+    "strategy",
+    "dots",
+    "ecs",
+    "framework",
+    "game",
+    "rpg"
+  ],
+  "author": {
+    "name": "eternalTornado",
+    "url": "https://github.com/eternalTornado"
+  },
+  "type": "library",
+  "hideInEditor": false,
+  "samples": [
+    {
+      "displayName": "Basic Turn-Based Combat Example",
+      "description": "A simple example showing how to use the Turn-Based Framework",
+      "path": "Samples~/BasicExample"
+    }
+  ]
+}
